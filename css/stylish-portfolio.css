@@ -296,8 +296,17 @@ h6 {
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
+  .portfolio-item div {
+    -webkit-transition: -webkit-clip-path 0.25s ease-out;
+    -webkit-clip-path: inset(-1px);
+    clip-path: inset(-1px);
+  }
+  .portfolio-item:hover div {
+    -webkit-clip-path: inset(2rem);
+    clip-path: inset(2rem);
+  }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: #76b2bf;
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }

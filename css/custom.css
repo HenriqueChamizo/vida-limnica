@@ -1,0 +1,88 @@
+.no-padding{
+    padding: 0px;
+}
+
+.modal-dialog{
+    max-width: 700px !important;
+}
+
+.height-300{
+    height: 300px;
+
+}
+
+.height-300 div{
+    width: 100%;
+    height: 300px;
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.height-900 div{
+    width: 100%;
+    height: 900px;
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.img-back-primeiro1{
+    height: 300px !important;
+    margin-bottom: 15px;
+    background-image: url("https://4.bp.blogspot.com/-DLM4VtsxeBM/UfgK_tpU3OI/AAAAAAAAOUU/oFRBSvf10Zg/s1600/ChicoMendes01_2.jpg");
+}
+
+.img-back-primeiro2{
+    height: 300px !important;
+    background-image: url("https://i.ytimg.com/vi/1unzMoEcqEY/maxresdefault.jpg");
+}
+
+.img-back-segundo{
+    background-image: url("https://i.ytimg.com/vi/0Hd1uKJ54RM/maxresdefault.jpg");
+}
+
+.img-back-terceiro{
+    background-image: url("https://abrilsuperinteressante.files.wordpress.com/2016/09/super_imgplanta_carnivora_papa-mosca.jpg");
+}
+
+.img-back-quarto1{
+    height: 300px !important;
+    margin-bottom: 15px;
+    background-image: url("http://jcho.masgc.org/frames/data/fullres/eichhorniacrassipes_01.jpg");
+}
+
+.img-back-quarto2{
+    height: 300px !important;
+    margin-bottom: 15px;
+    background-position-y: top !important;
+    background-image: url("https://farm8.staticflickr.com/7186/6800237914_fe077b1a48_b.jpg");
+}
+
+.img-back-quarto3{
+    height: 300px !important;
+    background-image: url("https://previews.123rf.com/images/jgaunion/jgaunion1707/jgaunion170700189/82428581-eichhornia-crassipes-com%C3%BAnmente-conocido-como-jacinto-de-agua-especies-invasoras-altamente-problem%C3%A1ticas-e.jpg");
+}
+
+.img-fluid{
+    opacity: 0.8 !important;
+}
+
+.div-img-fluid {
+    width: 100%;
+    height: 314.5px;
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: center;
+    opacity: 0.8 !important;
+}
+
+.parque {
+    background-size: 110%;
+    background-position-y: top !important;
+    background-image: url("../img/pq.png");
+}
+
+.planta {
+    background-image: url("http://tropical.theferns.info/plantimages/c/e/ce0e313835f12fb5e9ce28039f29305e62164acb.jpg");
+}
